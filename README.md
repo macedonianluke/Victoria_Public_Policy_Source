@@ -37,6 +37,29 @@ This repository is built to make that reconfiguration visible, testable and cont
 
 ---
 
+## The democracy and operator standard
+
+A government that cannot show its working cannot be trusted with power. The operator standard is a cultural and legislative commitment: every significant decision is public, evidenced, owned and reviewable. The minimum standard is:
+
+1. **Publish the baseline.** No announcement without the current number, the source and the date.
+2. **Show the math.** Cost, offset, sensitivity and the operating cost in year four.
+3. **Name the owner.** A minister, a department, a delivery agency and a named executive.
+4. **Disclose the influence.** Who met whom, who lobbied, who donated, who advised.
+5. **Open the decision record.** Problem, evidence, options, consultation, influence, cost, owner, metric, review and kill switch.
+6. **Deliberate before you decide.** A real channel for the people affected, with a published response.
+7. **Legislate the plumbing.** FOI, donations, truth in advertising, lobbying, appointments and local transparency.
+8. **Fund the scrutiny.** Parliament, committees, audit, IBAC, the Ombudsman and OVIC.
+9. **Protect the whistleblower.** Independent support, anti-retaliation and a duty to act.
+10. **Report to citizens annually.** What was promised, what was delivered, what was stopped and what it cost.
+11. **Sunset and review.** Every power, board, program and concession proves its value or ends.
+12. **Make the operator, not the slogan, the unit of credibility.** The test is delivery, not the media release.
+
+**The cultural test:** can the decision-maker defend the decision for three hours, unscripted, with the spreadsheet open? If not, the work is not done. The Civil-Servant Deed — 24-hour diaries, 15-day Cabinet release, open expenditure ledger, casework tracker, voting justification, frontline shifts, a seven-year lobbying ban and term limits — is how a candidate can model the standard before government.
+
+The full argument, the cuts and adds, and the 30-plus-point legislative reform list are in [`02-levers/democracy-transparency-and-operator-culture/`](02-levers/democracy-transparency-and-operator-culture/README.md).
+
+---
+
 ## The method in one page
 
 The full method is in [`00-method/operator-method.md`](00-method/operator-method.md). In short, every policy area is examined through six lenses, adapted from Edward de Bono's parallel-thinking approach:
@@ -62,6 +85,8 @@ The green lens is where the non-linear work happens. Typical provocations:
 - What if we merged the back office and separated the front line?
 - What if we ran a reverse tender: here is the outcome, who can deliver it for less?
 - What if every project had to show its operating cost for twenty years, not just its capital cost?
+
+**The democracy test.** Every policy must also answer: who decided, on what evidence, who influenced them, what did it cost, and how can a citizen see the record and challenge it? A policy that cannot pass this test is not ready, even if the economics work.
 
 ### The "cut here, add there" ledger
 
@@ -116,6 +141,7 @@ Victoria_Public_Policy_Source/
 │   ├── regulation-and-red-tape/
 │   ├── intergovernmental-and-federalism/
 │   ├── integrity-and-trust/
+│   ├── democracy-transparency-and-operator-culture/
 │   └── cost-of-living-and-household-budgets/
 ├── 03-proposals/                 ← costed, source-verified proposals that graduate from the portfolio READMEs
 ├── 04-evidence/                  ← source register, data notes, verification log
@@ -171,7 +197,7 @@ The triage script classifies the file by primary policy relevance, files it in `
 | 15 | [Local government and civic infrastructure](01-portfolio/15-local-government-and-civic-infrastructure/README.md) | Local decisions, fair rates, good places | Local Government; Consumer Affairs; LGV; councils; ESC | Councils as delivery partners; shared services and asset stewardship |
 | 16 | [Arts, sport and tourism](01-portfolio/16-arts-sport-and-tourism/README.md) | A creative state that pays its way | Creative Industries; Sport; Tourism; Creative Victoria; Visit Victoria | Creative economy as industry; events as customer acquisition |
 
-The cross-cutting levers are in [`02-levers/`](02-levers/README.md): procurement and market design, digital/data/AI, workforce and capability, regulation and red tape, intergovernmental relations, integrity and trust, and the citizen household budget.
+The cross-cutting levers are in [`02-levers/`](02-levers/README.md): procurement and market design, digital/data/AI, workforce and capability, regulation and red tape, intergovernmental relations, integrity and trust, democracy/transparency/operator culture, and the citizen household budget.
 
 ---
 
@@ -197,7 +223,7 @@ A detailed costed proposal lives in `03-proposals/` and links back to the releva
 
 ## What "good" looks like
 
-A policy area is ready to take to the citizenry when it can answer all seven questions:
+A policy area is ready to take to the citizenry when it can answer all eight questions:
 
 1. **What will a household notice in the first year?**
 2. **What are we stopping, and who will object?**
@@ -206,6 +232,7 @@ A policy area is ready to take to the citizenry when it can answer all seven que
 5. **Which other portfolios must move for this to work?**
 6. **How will we know it is working, and when will we stop it?**
 7. **What is the source, and how confident are we?**
+8. **Who influenced the decision, and where is the public record?**
 
 If a policy cannot answer these, it is a slogan, not a plan.
 

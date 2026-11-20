@@ -172,6 +172,32 @@ This is a working register, not a bibliography. Each row records what the source
 
 ---
 
+## Democracy, transparency and operator culture
+
+| ID | Source | Publisher | Date | URL | Supports | Confidence |
+|---|---|---|---|---|---|---|
+| DM01 | Political Donations | Victorian Electoral Commission | 2026 | https://www.vec.vic.gov.au/disclosures | Disclosure threshold $1,290; 21-day disclosure; caps | [A] |
+| DM02 | 2026 Electoral Act Amendments | Victorian Electoral Commission | 2026 | https://www.vec.vic.gov.au/about-us/legislation/electoral-act-amendments-2026 | Donation caps; disclosure; upper-house voting reform | [A] |
+| DM03 | Electoral Misinformation | Victorian Electoral Commission | 2026 | https://www.vec.vic.gov.au/voting/2026-state-election/electoral-misinformation | No general truth-in-advertising law; authorisation rules | [A] |
+| DM04 | Ministerial Diary Disclosures | Victorian Government | 2026 | https://www.vic.gov.au/ministerial-diary-disclosures | Quarterly diary disclosure since 1 December 2023; exclusions | [A] |
+| DM05 | Lobbying in Victoria | Parliament of Victoria | 2026 | https://prod12.parliament.vic.gov.au/about/publications/research-papers/lobbying-in-victoria | Lobbying register gaps; definitions; enforcement; cooling-off | [A] |
+| DM06 | Inquiry into the Operation of the Freedom of Information Act 1982 | Parliament of Victoria | 2025–26 | https://www.parliament.vic.gov.au/foi-report | Push-model FOI reform; government response; OVIC evidence | [A] |
+| DM07 | OVIC Annual Report 2025–26 | OVIC | 2026 | https://ovic.vic.gov.au/wp-content/uploads/2026/11/OVIC-2025-2026-Annual-Report-double-page-spread.pdf | 47.5% of entities reporting proactive release efforts | [A] |
+| DM08 | About PWSIC | Parliamentary Workplace Standards and Integrity Commission | 2026 | https://www.pwsic.vic.gov.au/about-pwsic | Parliamentary standards and integrity | [A] |
+| DM09 | Members of Parliament (Standards) Act 1978 | Victorian Legislation | 2024 | https://www.legislation.vic.gov.au/in-force/acts/members-parliament-standards-act-1978/006 | Members Code of Conduct | [A] |
+| DM10 | Local Government Legislation Amendment (Stronger Communities) Act 2026 | Victorian Legislation | 2026 | https://www.legislation.vic.gov.au/bills/local-government-legislation-amendment-stronger-communities-bill-2026 | Local electoral and councillor-conduct reform | [A] |
+| DM11 | Voting Reform: Upper House | Parliament of Victoria | 2026 | https://www.parliament.vic.gov.au/news/general-news/voting-reform | Abolition of group voting tickets; five-group minimum | [A] |
+| DM12 | Plan for Victoria — Engagement Report (Shape Victoria People's Panel) | Victorian Government | 2024–25 | https://www.planning.vic.gov.au/__data/assets/pdf_file/0034/739474/Plan-for-Victoria-Engagement-Report.pdf | 49-person citizens' panel | [B] |
+| DM13 | Participatory Budgeting Playbook | Victorian Government | 2021 | https://www.vic.gov.au/sites/default/files/2021-03/2021%20PMP%20Playbook%20%C6%92.pdf | Participatory budgeting model | [B] |
+| DM14 | Share Your Council Budget Ideas | City of Melton | 2026 | https://www.melton.vic.gov.au/News-Media/Share-your-Council-Budget-ideas-and-help-shape-future-investment | Local participatory budgeting experiment | [B] |
+| DM15 | IBAC Annual Report | IBAC | 2026 | https://www.ibac.vic.gov.au | Anti-corruption oversight | [B] |
+| DM16 | VAGO Annual Reports and Performance Audits | VAGO | 2026 | https://www.audit.vic.gov.au | Audit oversight | [B] |
+| DM17 | Victorian Ombudsman Annual Report | Ombudsman | 2026 | https://www.ombudsman.vic.gov.au | Complaints oversight | [B] |
+| DM18 | OVIC FOI and Privacy Guidance | OVIC | 2026 | https://ovic.vic.gov.au | FOI and privacy guidance | [B] |
+| DM19 | The Anti-Salesman Charter & Civil-Servant Politician Strategy | Unknown (raw strategy paper) | Nov 2026 | `raw/00-cross-cutting/2026-11__unknown__the-anti-salesman-charter-and-civil-servant-politician-strategy.pdf` | Anti-Salesman standard; 3-hour uncut; Cabinet release; open ledger; casework; lobbying ban; Civic Draft | [C]/[D] |
+
+---
+
 ## How to add a source
 
 1. File the source in `raw/<portfolio>/` with a sidecar.

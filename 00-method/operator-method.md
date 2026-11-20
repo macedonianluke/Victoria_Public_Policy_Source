@@ -189,6 +189,20 @@ If the policy survives those four, it is ready for the public. If it does not, f
 
 ---
 
+## 9b. Pass the democracy test
+
+A policy can be economically sound and still be democratically illegitimate. Before it goes public, answer five questions in public:
+
+1. **Who decided?** Name the minister, the public servant and the statutory decision-maker.
+2. **On what evidence?** Publish the baseline, the source, the assumptions and the options.
+3. **Who influenced them?** Disclose meetings, lobbying, donations, advice and conflicts.
+4. **What did it cost, and who pays?** Show the whole-of-life cost, the offset and the distribution.
+5. **How can a citizen see the record and challenge it?** Publish the decision record, the review date and the appeal or complaint path.
+
+If the answer is "you can't", the policy is not ready. The full reform agenda is in [`../02-levers/democracy-transparency-and-operator-culture/`](../02-levers/democracy-transparency-and-operator-culture/README.md).
+
+---
+
 ## 10. Sequence for trust
 
 A reform program has three clocks:

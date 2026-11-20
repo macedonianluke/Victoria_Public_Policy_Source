@@ -31,9 +31,9 @@ The cross-cutting levers live in [`../02-levers/`](../02-levers/README.md). They
 
 ---
 
-## Five shared operating layers
+## Six shared operating layers
 
-Every portfolio depends on five layers that should be planned once, not sixteen times.
+Every portfolio depends on six layers that should be planned once, not sixteen times.
 
 | Layer | What it is | Where it is governed |
 |---|---|---|
@@ -41,7 +41,8 @@ Every portfolio depends on five layers that should be planned once, not sixteen 
 | **People** | Workforce pipeline, skills, registration, rostering, retention | [Skills, jobs and industry](06-skills-jobs-and-industry/README.md), [workforce lever](../02-levers/workforce-and-capability/README.md) |
 | **Place** | Land, planning, precincts, transport, local government | [Housing and planning](02-housing-and-planning/README.md), [regional Victoria](12-regional-victoria-and-agriculture/README.md), [local government](15-local-government-and-civic-infrastructure/README.md) |
 | **Data and digital** | Identity, payments, bookings, records, AI, cyber | [Digital lever](../02-levers/digital-data-and-ai/README.md) |
-| **Trust** | Integrity, transparency, accountability, citizen voice | [Integrity lever](../02-levers/integrity-and-trust/README.md) |
+| **Trust** | Integrity, transparency, accountability, citizen voice | [Integrity lever](../02-levers/integrity-and-trust/README.md), [democracy lever](../02-levers/democracy-transparency-and-operator-culture/README.md) |
+| **Democracy** | Elections, participation, deliberation, scrutiny, public decision records | [Democracy lever](../02-levers/democracy-transparency-and-operator-culture/README.md) |
 
 ---
 
@@ -58,6 +59,7 @@ These are the dependencies that repeatedly break in government. Each one is a pl
 | **Justice + mental health + families + housing** | The same people cycle through police, courts, prisons, crisis care and homelessness | 10, 04, 11, 02 |
 | **Emergency + climate + planning + local government** | Risk is managed by response agencies but created by land-use, insurance and infrastructure decisions | 13, 08, 02, 15 |
 | **First Peoples + all portfolios** | Treaty, self-determination and truth-telling change how policy is made, not just what is funded | 14 + all |
+| **Democracy + all portfolios** | Decisions are made without a public record, influence is undisclosed, and citizens cannot see the evidence or the trade-off | Democracy lever + all |
 | **Fiscal + every portfolio** | Outcome budgets fail if the offsets and the operating costs are not real | 01 + all |
 
 ---
