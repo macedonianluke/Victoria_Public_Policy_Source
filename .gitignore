@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+~$*
+
+# The drop zone is for loose files; triage moves them into raw/ before commit.
+incoming/drop/*
+!incoming/drop/.gitkeep
+!incoming/drop/README.md
